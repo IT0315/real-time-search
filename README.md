@@ -26,4 +26,8 @@ npm run e2e
 # run all tests
 npm test
 ```
-## 博客网址: 
+## 博客网址: https://blog.csdn.net/qq_25403957/article/details/81111437
+
+## 图片展示
+![image](./src/assets/img1.png)
+![image](./src/assets/img2.png)
